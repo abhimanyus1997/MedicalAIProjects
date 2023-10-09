@@ -5,57 +5,41 @@ Welcome to my repository showcasing a series of medical image analysis projects 
 1. **Pneumonia Classification**
 2. **Cardiac Detection**
 3. **Atrium Segmentation**
-4. **Capstone Project: Lung Tumor Segmentation**
+4. **Lung Tumor Segmentation**
 
 These projects focus on applying state-of-the-art Deep Learning architectures to various medical imaging challenges. Each project comes with its own set of goals, datasets, methodologies, and results. Below, you'll find a brief overview of each project:
 
 ## 1. Pneumonia Classification
 
-**Description:** [Add a brief description of the project.]
-
-**Dataset:** [Provide dataset details if possible.]
-
-**Methodology:** [Explain the deep learning architecture and techniques used.]
-
-**Results:** [Share the project's outcomes, including metrics and visualizations.]
-
-**Usage:** [Instructions for running the code.]
+**Description:** 
+**Dataset:** 
+**Methodology:** 
+**Results:** 
+**Usage:** 
 
 ## 2. Cardiac Detection
 
-**Description:** [Add a brief description of the project.]
-
-**Dataset:** [Provide dataset details if possible.]
-
-**Methodology:** [Explain the deep learning architecture and techniques used.]
-
-**Results:** [Share the project's outcomes, including metrics and visualizations.]
-
-**Usage:** [Instructions for running the code.]
+**Description:** 
+**Dataset:** 
+**Methodology:** 
+**Results:** 
+**Usage:** 
 
 ## 3. Atrium Segmentation
 
-**Description:** [Add a brief description of the project.]
-
-**Dataset:** [Provide dataset details if possible.]
-
-**Methodology:** [Explain the deep learning architecture and techniques used.]
-
-**Results:** [Share the project's outcomes, including metrics and visualizations.]
-
-**Usage:** [Instructions for running the code.]
+**Description:** 
+**Dataset:** 
+**Methodology:** 
+**Results:** 
+**Usage:** 
 
 ## 4. Capstone Project: Lung Tumor Segmentation
 
-**Description:** [Add a brief description of the capstone project.]
-
-**Dataset:** [Provide dataset details if possible.]
-
-**Methodology:** [Explain the deep learning architecture and techniques used.]
-
-**Results:** [Share the project's outcomes, including metrics and visualizations.]
-
-**Usage:** [Comprehensive instructions for running the code.]
+**Description:** 
+**Dataset:** 
+**Methodology:** 
+**Results:** 
+**Usage:** 
 
 Feel free to explore each project's folder for more details, code, and documentation. If you have any questions or feedback, please don't hesitate to reach out.
 
