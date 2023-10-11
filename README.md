@@ -8,39 +8,47 @@ Welcome to my repository showcasing a series of medical image analysis projects 
 4. **Lung Tumor Segmentation**
 
 These projects focus on applying state-of-the-art Deep Learning architectures to various medical imaging challenges. Each project comes with its own set of goals, datasets, methodologies, and results. Below, you'll find a brief overview of each project:
-  
-## 1. Pneumonia Classification
-    
-**Description:**   
-**Dataset:**   
-**Methodology:**   
-**Results:**   
-**Usage:**   
 
-## 2. Cardiac Detection
-      
-**Description:**   
-**Dataset:**   
-**Methodology:**   
-**Results:** 
-**Usage:** 
-  
-## 3. Atrium Segmentation
-    
-**Description:**   
-**Dataset:**   
-**Methodology:**   
-**Results:**   
-**Usage:**   
+## 1. Renal Disease Classification
 
-## 4. Capstone Project: Lung Tumor Segmentation
-  
-**Description:**   
-**Dataset:**   
-**Methodology:**   
-**Results:**   
-**Usage:**   
-  
+**Description:**
+**Dataset:**
+**Methodology:**
+**Results:**
+**Usage:**
+
+## 2. Pneumonia Classification
+
+**Description:**
+**Dataset:**
+**Methodology:**
+**Results:**
+**Usage:**
+
+## 3. Cardiac Detection
+
+**Description:**
+**Dataset:**
+**Methodology:**
+**Results:**
+**Usage:**
+
+## 4. Atrium Segmentation
+
+**Description:**
+**Dataset:**
+**Methodology:**
+**Results:**
+**Usage:**
+
+## 5. Lung Tumor Segmentation
+
+**Description:**
+**Dataset:**
+**Methodology:**
+**Results:**
+**Usage:**
+
 Feel free to explore each project's folder for more details, code, and documentation. If you have any questions or feedback, please don't hesitate to reach out.
 
 ---
