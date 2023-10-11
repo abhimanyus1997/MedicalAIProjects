@@ -2,6 +2,7 @@
 
 Welcome to my repository showcasing a series of medical image analysis projects using Deep Learning techniques. In this repository, you will find the following projects:
 
+0. **Renal Disease Classification**
 1. **Pneumonia Classification**
 2. **Cardiac Detection**
 3. **Atrium Segmentation**
